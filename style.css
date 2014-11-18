@@ -1,0 +1,14 @@
+body {
+background-image: url('soleil.png'), url('jungle.png');
+background-position: 20px 20px, 0 0;
+background-repeat: no-repeat; 
+}
+#rad  {
+width: 100px;
+height:150px;
+background-color: #90C140;
+border-radius: 10px;
+}
+
+#jungle  {
+}
